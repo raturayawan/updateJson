@@ -1,0 +1,5 @@
+{
+  "version": "2.5",
+  "token": "ABC123RRR", 
+  "firmware_url": "https://raw.githubusercontent.com/dbagusf/esp32baubau-ota/main/update.bin"
+}
